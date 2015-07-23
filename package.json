@@ -1,0 +1,20 @@
+{
+  "name": "git-semver-test",
+  "version": "0.1.1",
+  "description": "Accompanying repo to git-semver for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markchalloner/git-semver-test.git"
+  },
+  "author": "Mark Challoner <mark.a.r.challoner@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markchalloner/git-semver-test/issues"
+  },
+  "homepage": "https://github.com/markchalloner/git-semver-test#readme",
+  "private": true
+}
